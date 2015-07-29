@@ -1,6 +1,6 @@
 # Opal Website
 
-This repo holds the source of the opalrb.org website.
+This repo holds the source of the [opalrb.org](http://opalrb.org/) website.
 
 ## Preparing
 
@@ -8,7 +8,7 @@ Clone this repo, and use bundler to get dependencies:
 
     $ bundle install
 
-The website is built using middleman.
+The website is built using [middleman](https://middlemanapp.com/).
 
 ## Run site/server
 
